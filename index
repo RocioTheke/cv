@@ -1,0 +1,254 @@
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Rocio Sol Lopez webSite</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="estilos.css">
+    <link href="https://fonts.googleapis.com/css2?family=Abel&family=Mooli&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/ba329451da.js" crossorigin="anonymous"></script>
+    <link rel="icon" type="image/x-icon" href="img/Rsl.png">
+    
+
+
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="navbar-header">
+            <div class="navbar-titulo">
+            
+            </div>
+        </div>
+        <div class="navbar-btn">
+            <label for="navbar-check"></label>
+        </div>
+        <div class="navbar-links">
+            <a href="#sobre-mi">Sobre mi</a>
+            <a href="#caracteristica">Formación</a>
+            <a href="#syp">Skills</a>
+            <a href="#experiencia">Experiencia</a>
+            
+        </div>
+    </div>
+    <section class="principal">
+        <div class="header">
+            <h1>Rocío Sol López</h1>
+            <div class="img1">
+                <img src="img/Underline_1.png"/>
+            </div>
+            <br>
+            <br>
+            <h2 class="biblioh2">Bibliotecaria con perfil de sistemas</h2>
+            
+            <i class="fa-solid fa-code" style="font-size:48px; color:#d78fa3" ;></i>
+        </div>
+        <button class="btn card_btn"><a href="archivos/CV Lopez Rocio Sol (1).pdf" download="CV Lopez Rocio Sol (1).pdf">Descargar cv</a></button>
+    </section>
+
+    <section class="sobre-mi"> <a id="sobre-mi"></a>
+        <div class="contenido">
+            <h2> ¡Hola!</h2>
+            <p class="sobre">Soy <span>Rocío Sol Lopez</span>
+                Bibliotecaria <i class="fa-solid fa-book-open-reader"style="font-size:35px; color:#d78fa3"></i> especializada en sistemas y diseño de front end de productos de biblioteca, con un enfoque destacado en
+                plataformas como <span>DSpace, Koha, Aspen, OJS y WordPress</span>. Mi pasión por la organización y la presentación eficiente de la
+                información me ha llevado a trabajar en bibliotecas universitarias, donde he contribuido al acceso y la gestión de
+                recursos académicos de manera efectiva.
+                
+                Además de mi experiencia profesional, soy una entusiasta de los videojuegos <i class="fa-solid fa-gamepad"style="font-size:35px; color:#d78fa3"></i>, y me sumerjo en mundos virtuales como World
+                of Warcraft para disfrutar de desafíos creativos y estratégicos. Fuera de mi vida laboral y mi vida virtual, comparto mi
+                tiempo con mi amada gata<i class="fa-solid fa-cat"style="font-size:35px; color:#d78fa3"></i>, combinando momentos de relax y diversión en casa.
+                </p>
+        </div>
+    </section>
+
+    <section class="caracteristica"> <a id="caracteristica"></a>
+        <div class="contenido">
+            <h2>Formación y conocimientos</h2><i class="fa-solid fa-user-graduate"style="font-size:25px; color:white"></i>
+            <div class="cars">
+                <figure class="cont">
+                    <div class="Titulo">
+                        <h4> Bibliotecología UNC</h4>
+                    </div>
+                    <p class="pexp">
+                        Estudiante de la Licenciatura en Bibliotecología y Documentación
+                    </p>
+                <div class="Titulo">
+                    <h4> Programadora Front End</h4>
+                </div>
+                <p class="pexp">
+                    Argentina Programa 4.0 Plan nacional, federal e inclusivo de formación en programación y software.
+
+                </p>
+                    <div class="Titulo">
+                        <h4> Dirección de proyectos</h4>
+                    </div>
+                    <p class="pexp">
+                        Universidad Empresarial Siglo 21 Escuela de negocios
+                    
+                    </p>
+                </figure>
+                
+        </div>
+    </section>
+
+    <section class="syp"> <a id="syp"></a>
+        <div class="contenido">
+            <h2> Conocimientos </h2>
+            <div class="apps">
+                <div class="item">
+                    <div class="textApp1">Koha</div>
+                    <div class="icon">
+                        <div class="ellipse"></div>
+                    </div>
+                </div>
+                <div class="item2">
+                    <div class="textApp1">ClickUp</div>
+                    <div class="icon">
+                        <div class="ellipse2"></div>
+                    </div>
+                </div>
+                <div class="item3">
+                    <div class="textApp1">Dspace</div>
+                    <div class="icon">
+                        <div class="ellipse3"></div>
+                    </div>
+                </div>
+                <div class="item4">
+                    <div class="textApp1">OJS</div>
+                    <div class="icon">
+                        <div class="ellipse4"></div>
+                    </div>
+                </div>
+                <div class="item5">
+                    <div class="textApp1">Aspen</div>
+                    <div class="icon">
+                        <div class="ellipse5"></div>
+                    </div>
+                </div>
+                <div class="item6">
+                    <div class="textApp1">WordPress</div>
+                    <div class="icon">
+                        <div class="ellipse6"></div>
+                    </div>
+                </div>
+                <div class="item7">
+                    <div class="textApp1">WordPress</div>
+                    <div class="icon">
+                        <div class="ellipse7"></div>
+                    </div>
+                </div>
+                <div class="item8">
+                    <div class="textApp8">Software de diseño</div>
+                    <div class="icon">
+                        <div class="ellipse8"></div>
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="experiencia"><a id="experiencia"></a>
+    
+   
+        <h2 class="exph2"> Experiencia </h2>
+        <div class="row">
+            <div class="column">
+              <div class="card">
+                <img class="imaexp" src="img/isep.png" alt="isep">
+                <div class="container">
+                  <h2>Instituto de Estudios Psicopedagogicos</h2>
+                  <p class="title">Consultora</p>
+                  <p>2022- a la Fecha</p>
+                  <p>Consultora especializada en DSpace y Koha, con experiencia en implementación, personalización y gestión de bibliotecas
+                  digitales y sistemas de gestión de bibliotecas.</p>
+                </div>
+              </div>
+            </div>
+              <div class="column">
+              <div class="card">
+              <img class="imaexp" src="img/theke.png" alt="Theke">
+                <div class="container">
+                  <h2>Theke Solutions</h2>
+                  <p class="title">Soporte tecnico y manejo de proyectos</p>
+                  <p>2020- a la Fecha</p>
+                  <p>En mi rol en Theke Solutions, he brindado soporte técnico y consultoría para Koha, Dspace y Aspen, además de gestionar
+                  la facturación y la agenda de clientes. También he sido responsable de la administración de redes y del sistema CRM de
+                  la empresa. Imparto capacitaciones, creo material audiovisual y me encargo de la migración de datos, destacando mi
+                  habilidad para abordar una amplia gama de responsabilidades en el campo de la bibliotecología y la tecnología</p>
+                </div>
+              </div>
+            </div>
+          
+              <div class="column">
+                  <div class="card">
+                      <img class="imaexp" src="img/s21.png" alt="s21">
+                      <div class="container">
+                          <h2>Universidad Empresarial Siglo 21</h2>
+                          <p class="title">Bibliotecaria</p>
+                          <p>2016-2018</p>
+                          <p>Responsable del procesamiento y re catalogación de material bibliográfico, proporcionando referencias bibliográficas a
+                          la comunidad universitaria. Ofrecimiento de soporte en sistemas de automatización de biblioteca y mantenimiento de OPAC
+                          y biblioteca virtual. Gestión de informes mediante SQL para autoridades bibliotecarias, implementación de alertas
+                          bibliográficas y contribución a mejoras en automatización bibliotecaria</p>
+                      </div>
+                  </div>
+              </div>
+            
+            <div class="column">
+              <div class="card">
+                  <img class="imaexp" src="img/bid.png" alt="BID">
+                  <div class="container">
+                          <h2>Banco Interamericano de Desarrollo BID</h2>
+                          <p class="title">Intership for IADB / Pasante de invierno</p>
+                          <p>2016</p>
+                          <p>Interna en la Biblioteca especializada Felipe Herrera dentro del Banco Interamericano de Desarrollo con sede en Washington - DC, EEUU. Tareas realizadas: Research, atención al público, ayuda con investigaciones
+                  </div>
+              </div>
+            </div>
+          </div>
+    </section>
+
+
+    <a id="contactos1"></a>
+    <section class="formulario-contacto">
+        <div class="containerForm">
+            <div style="text-align:center">
+                <h2 class="h2form">Contacto</h2>
+                <form id="formContacto" action="" class="form">
+                    <label class="lblform" for="fname">Nombre <i class="fa fa-user" aria-hidden="true"></i> </label>
+                    <input type="text" id="fname" name="nombre" placeholder="Ingrese el nombre...">
+                    <label class="lblform" for="lname">Email <i class="fa fa-envelope" aria-hidden="true"></i></label>
+                    <input type="email" id="formail" name="email" placeholder="Ingrese un Email">
+                    <label class="lblform" for="mensaje">Mensaje <i class="fa fa-edit" aria-hidden="true"></i></label>
+                    <textarea id="mensaje" name="mensaje" placeholder="Deje su Mensaje aquì..."
+                        style="height:170px"></textarea>
+                    <input type="submit" value="Enviar">
+                    <a href="mailto:iseul.hime@gmail.com" id="sender">mail</a>
+                </form>
+            </div>
+        </div>
+    </section>
+    <script>
+        const $form = document.querySelector('#formContacto')
+        const $buttonMailto = document.querySelector('#sender')
+        $form.addEventListener('submit', handleSubmit)
+        function handleSubmit() {
+            event.preventDefault()
+            const form = new FormData(this)
+            $buttonMailto.setAttribute('href', `mailto:iseul.hime@gmail.com?subject= De: ${form.get('nombre')} , E-mail: ${form.get('email')}&body=${form.get('mensaje')}`)
+            $buttonMailto.click()
+        }
+    </script>
+
+</body>
+
+</html>
